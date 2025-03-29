@@ -11,4 +11,3 @@ if (part = b || c || d || f || g || h || j || k || l || m || n || p || q || r ||
     console.log(part)
 }
 
-// comment
